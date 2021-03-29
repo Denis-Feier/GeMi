@@ -1,0 +1,20 @@
+{
+  "name": "gemi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gemfile",
+    "ruby"
+  ],
+  "author": "Denis Feier",
+  "license": "ISC",
+  "dependencies": {
+    "gemfile-parser": "^0.1.0",
+    "walk-sync": "^2.2.0"
+  }
+}
