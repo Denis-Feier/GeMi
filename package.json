@@ -14,6 +14,7 @@
   "author": "Denis Feier",
   "license": "ISC",
   "dependencies": {
+    "gemfile": "^1.1.0",
     "gemfile-parser": "^0.1.0",
     "walk-sync": "^2.2.0"
   }
